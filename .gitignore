@@ -1,5 +1,5 @@
 training_data/
-_pycache_/
+__pycache__/
 .spyproject/config/
 generate_training_data.py
 concat_data.py
