@@ -1,4 +1,4 @@
-#The Game of Hex
+# The Game of Hex
 
 Hex is a two player strategy board game in which players attempt to
 connect opposite sides of a hexagonal board. It was developed by the
