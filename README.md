@@ -1,3 +1,5 @@
+![Hex Board Image](./Hex.png)
+
 # The Game of Hex
 
 Hex is a two player strategy board game in which players attempt to
