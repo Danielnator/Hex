@@ -82,7 +82,7 @@ def save_move(data, game_board, move, current_player):
 
 if __name__ == "__main__":
     
-    for i in range(181, 291):
+    for i in range(211, 291):
         data = generate_game_data()
         
         print('DATA: ', data)
