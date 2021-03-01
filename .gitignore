@@ -1,0 +1,5 @@
+training_data/
+_pycache_/
+.spyproject/config/
+generate_training_data.py
+concat_data.py
