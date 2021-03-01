@@ -4,8 +4,6 @@ Creates Instances of a HexGui and a HexBoard,
 contains the tkinter mainloop,
 updates the types of players (human or AI) 
 and handles new moves.
-
-LALALLA
 '''
 
 
